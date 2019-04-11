@@ -33,6 +33,13 @@
 - [OverSight](https://objective-see.com/products/oversight.html)
   > Mac malware often spies on users by recording audio and video sessions.
 
+## Tools:
+
+- [Stack](https://getstack.app)
+  > Stack is an internet launchpad for all of your web applications. Work in multiple web-apps simultaneously, within a well-organized environment.
+- [Evolve Tracking](https://www.evolvetracking.com)
+  > Time tracking for freelancers on your Mac.
+
 ## Chat:
 
 - [Skype](https://www.skype.com)
