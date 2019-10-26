@@ -39,6 +39,8 @@
   > Stack is an internet launchpad for all of your web applications. Work in multiple web-apps simultaneously, within a well-organized environment.
 - [Evolve Tracking](https://www.evolvetracking.com)
   > Time tracking for freelancers on your Mac.
+- [Guidance](https://apps.apple.com/us/app/guidance/id412759995)
+  > Guidance is an Islamic prayer times application for OS X that plays the Adhan and shows an alert when it's time for prayer.
 
 ## Chat:
 
