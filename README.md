@@ -32,6 +32,10 @@
   > The Unarchiver is the only app you need to open RAR on Mac.
 - [OverSight](https://objective-see.com/products/oversight.html)
   > Mac malware often spies on users by recording audio and video sessions.
+- [MacUpdater](https://www.corecode.io/macupdater/)
+  > keep all your apps up-to-date effortlessly.
+- [Guidance](https://apps.apple.com/us/app/guidance/id412759995)
+  > Islamic Prayer Times.
 
 ## Tools:
 
