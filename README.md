@@ -4,8 +4,6 @@
 
 - [Fork](https://git-fork.com)
   > a fast and friendly git client for Mac and Windows.
-- [FreelanceStation](https://ds9soft.com)
-  > Time tracking and Invoicing for Mac. Built for freelancers.
 
 ## Office & Notes:
 
@@ -26,16 +24,12 @@
   > Manage Your Clipboard.
 - [SideSync](https://www.samsung.com/us/sidesync)
   > Stronger Solution to Connect your PC & Mobile Device.
-- [Taggy](https://taggy.pro)
-  > Taggy will help you to save any text, link or image instantly and without losing focus while you are working or reading.
 - [The Unarchiver](https://theunarchiver.com)
   > The Unarchiver is the only app you need to open RAR on Mac.
 - [OverSight](https://objective-see.com/products/oversight.html)
   > Mac malware often spies on users by recording audio and video sessions.
 - [MacUpdater](https://www.corecode.io/macupdater/)
   > keep all your apps up-to-date effortlessly.
-- [Guidance](https://apps.apple.com/us/app/guidance/id412759995)
-  > Islamic Prayer Times.
 
 ## Tools:
 
