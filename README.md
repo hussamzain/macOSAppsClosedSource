@@ -39,6 +39,8 @@
   > Time tracking for freelancers on your Mac.
 - [Guidance](https://apps.apple.com/us/app/guidance/id412759995)
   > Guidance is an Islamic prayer times application for OS X that plays the Adhan and shows an alert when it's time for prayer.
+- [Android File Transfer](https://www.android.com/filetransfer/)
+  > Browse and transfer files between your Mac computer and your Android device.
 
 ## Chat:
 
