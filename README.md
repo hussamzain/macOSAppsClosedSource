@@ -30,6 +30,8 @@
   > Mac malware often spies on users by recording audio and video sessions.
 - [MacUpdater](https://www.corecode.io/macupdater/)
   > keep all your apps up-to-date effortlessly.
+- [Itsycal](https://www.mowglii.com/itsycal/)
+  > Itsycal is a tiny menu bar calendar.
 
 ## Tools:
 
