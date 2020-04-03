@@ -34,6 +34,8 @@
   > Itsycal is a tiny menu bar calendar.
 - [Tomato 2: Pomodoro Timer](https://apps.apple.com/us/app/tomato-2-pomodoro-timer/id1494210770)
   > Tomato 2 is a simple application for increasing personal productivity. Work for 25 minutes, take a 5 minute break, then repeat.
+- [AppCleaner](https://freemacsoft.net/appcleaner)
+  > a small application which allows you to thoroughly uninstall unwanted apps.
 
 ## Tools:
 
