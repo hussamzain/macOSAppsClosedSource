@@ -36,6 +36,8 @@
   > Tomato 2 is a simple application for increasing personal productivity. Work for 25 minutes, take a 5 minute break, then repeat.
 - [AppCleaner](https://freemacsoft.net/appcleaner)
   > a small application which allows you to thoroughly uninstall unwanted apps.
+- [Meeter - Fast Call Initiation](https://apps.apple.com/de/app/meeter-fast-call-initiation/id1510445899)
+  > Easily join your upcoming meetings (Zoom, Teams, Hangout etc) and call your contacts from the menu bar.
 
 ## Tools:
 
