@@ -20,7 +20,7 @@
   > Know your short cuts.
 - [coconutBattery 3](https://www.coconut-flavour.com/coconutbattery)
   > The standard for battery reading since 2005.
-- [CopyClip - Clipboard History](https://itunes.apple.com/ca/app/copyclip-clipboard-history/id595191960)
+- [CopyClip - Clipboard History](https://apps.apple.com/app/copyclip-clipboard-history/id595191960)
   > Manage Your Clipboard.
 - [SideSync](https://www.samsung.com/us/sidesync)
   > Stronger Solution to Connect your PC & Mobile Device.
@@ -32,12 +32,14 @@
   > keep all your apps up-to-date effortlessly.
 - [Itsycal](https://www.mowglii.com/itsycal/)
   > Itsycal is a tiny menu bar calendar.
-- [Tomato 2: Pomodoro Timer](https://apps.apple.com/us/app/tomato-2-pomodoro-timer/id1494210770)
+- [Tomato 2: Pomodoro Timer](https://apps.apple.com/app/tomato-2-pomodoro-timer/id1494210770)
   > Tomato 2 is a simple application for increasing personal productivity. Work for 25 minutes, take a 5 minute break, then repeat.
 - [AppCleaner](https://freemacsoft.net/appcleaner)
   > a small application which allows you to thoroughly uninstall unwanted apps.
-- [Meeter - Fast Call Initiation](https://apps.apple.com/de/app/meeter-fast-call-initiation/id1510445899)
-  > Easily join your upcoming meetings (Zoom, Teams, Hangout etc) and call your contacts from the menu bar.
+- [Meeter - Fast Call Initiation](https://apps.apple.com/app/meeter-fast-call-initiation/id1510445899)
+  > Easily join your upcoming meetings Zoom, Teams, Hangout etc) and call your contacts from the menu bar.
+- [BarCasts](https://apps.apple.com/app/id1521815885)
+  > An elegant podcast player that lives in your Mac’s menu bar.
 
 ## Tools:
 
