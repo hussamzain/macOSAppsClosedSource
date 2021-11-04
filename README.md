@@ -65,11 +65,6 @@
 - [Zoom](https://zoom.us)
   > Flawless video. Clear audio. Instant sharing.
 
-## VPN:
-
-- [VPN.ac](https://vpn.ac)
-  > We provide a VPN service.
-
 ## Backup:
 
 - [Google Backup and Sync](https://www.google.com/drive/download/backup-and-sync)
