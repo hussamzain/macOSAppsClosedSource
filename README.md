@@ -22,8 +22,6 @@
   > The standard for battery reading since 2005.
 - [CopyClip - Clipboard History](https://apps.apple.com/app/copyclip-clipboard-history/id595191960)
   > Manage Your Clipboard.
-- [SideSync](https://www.samsung.com/us/sidesync)
-  > Stronger Solution to Connect your PC & Mobile Device.
 - [The Unarchiver](https://theunarchiver.com)
   > The Unarchiver is the only app you need to open RAR on Mac.
 - [OverSight](https://objective-see.com/products/oversight.html)
@@ -38,15 +36,13 @@
   > a small application which allows you to thoroughly uninstall unwanted apps.
 - [Meeter - Fast Call Initiation](https://apps.apple.com/app/meeter-fast-call-initiation/id1510445899)
   > Easily join your upcoming meetings Zoom, Teams, Hangout etc) and call your contacts from the menu bar.
-- [BarCasts](https://apps.apple.com/app/id1521815885)
+- [Arvocast](https://apps.apple.com/app/id1521815885)
   > An elegant podcast player that lives in your Mac’s menu bar.
 
 ## Tools:
 
 - [Stack](https://getstack.app)
   > Stack is an internet launchpad for all of your web applications. Work in multiple web-apps simultaneously, within a well-organized environment.
-- [Evolve Tracking](https://www.evolvetracking.com)
-  > Time tracking for freelancers on your Mac.
 - [Guidance](https://apps.apple.com/us/app/guidance/id412759995)
   > Guidance is an Islamic prayer times application for OS X that plays the Adhan and shows an alert when it's time for prayer.
 - [Android File Transfer](https://www.android.com/filetransfer/)
